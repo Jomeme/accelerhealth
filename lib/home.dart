@@ -26,8 +26,8 @@ class _HomeState extends State<Home> {
               child: Align(
                 alignment: Alignment.centerLeft,
                 child: Container(
-                  height: 30,
-                  width: 30,
+                  height: 25,
+                  width: 25,
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(20),
                     color: Colors.blue
